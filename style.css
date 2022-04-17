@@ -37,7 +37,13 @@ img.logo {
   margin-top: 20px;
 }
 
-img.projeto {
+img.projeto1 {
+  margin-top: 20px;
+  clip-path: circle(50%);
+  max-width: 338px;
+}
+
+img.projeto2 {
   margin-top: 20px;
   clip-path: circle(50%);
   max-width: 338px;
