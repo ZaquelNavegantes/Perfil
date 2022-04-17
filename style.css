@@ -45,7 +45,7 @@ img.projeto1 {
 
 img.projeto2 {
   margin-top: 20px;
-  clip-path: circle(50%);
+  clip-path: circle(100%);
   max-width: 338px;
 }
 
