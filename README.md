@@ -1,3 +1,3 @@
 # Perfil
 
-<p>Nesse projeto tive a oportunidade de abstrair importantes conceitos que me permitiram desenvolver um perfil pessoal.</p>
+<p>Neste projeto, pude assimilar conceitos essenciais que contribuíram para a construção de um perfil pessoal..</p>
